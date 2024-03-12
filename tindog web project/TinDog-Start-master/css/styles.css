@@ -1,0 +1,150 @@
+
+
+
+.navbar{
+    padding: 0 0 4.5rem;
+}
+
+.navbar-nav{
+    margin-left: 75%;
+}
+
+.navbar-brand{
+    font-size: 3rem;
+    font-family: 'Ubuntu';
+    line-height: 1.5;
+    margin-bottom: 4.5rem;
+    margin-top: 20px;
+   
+}
+#title{
+ 
+    z-index: 0;
+}
+
+
+
+h1{
+    
+    font-weight: bold;
+    font-size:3rem;
+    color: #fff;
+}
+
+.iphone{
+    width: 50%;
+    transform: rotate(25deg);
+   position: absolute;
+ 
+
+}
+.nav-item{
+    color: #fff;
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-light';
+}
+
+.download-button{margin: 5% 3% 5% 0;
+
+}
+
+#icons{
+   text-decoration-color: #ef8172;
+   padding-left:10px;
+ font-size: 50px;
+ color: #ef8172;
+}
+
+#icons:hover{
+    color: #ff4c68;
+}
+
+#features{
+    padding-top: 125px;
+    padding-bottom: 125px;
+    text-align: center;
+    margin-left: 225px;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+    
+}
+
+.heading{
+    font-family: 'Montserrat-bold';
+    font-size: 2rem;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.para{
+    font-size: 1.5rem;
+    color: #8f8f8f;
+    font-family: 'Montserrat';
+    font-weight: 300;
+}
+
+.fa-circle-check:hover{
+    color: #ff4c68;
+}
+
+#testimonials{
+    background-color: #ef8172;
+    font-family: 'Montserrat-bold';
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+ 
+}
+
+#carouselExampleControls{
+    padding: 5% 25%;
+    text-align: center;
+}
+
+.slide-img{
+    border-radius: 100%;
+   width: 150px;
+}
+
+.press-img{
+    width: 250px;
+    padding: 5% 50px;
+}
+
+#pricing{
+    padding: 50px;
+    text-align: center;
+}
+
+.card{
+    border: 1px solid;
+}
+
+.card-deck{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#cta{
+    background-color: #ff4c68;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-family: 'Montserrat';
+    text-align: center;
+    font-size: 500;
+}
+
+#footer{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
